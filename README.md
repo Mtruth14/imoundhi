@@ -92,12 +92,6 @@ Mon GitHub documente mon évolution technique à travers des projets **structur�
 - Sites web professionnels (portfolio, e-commerce)
 - Exercices avancés d’algorithmique et de logique (prépa 42)
 
----
-
-## 📊 GitHub Analytics
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mtruth14&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mtruth14&layout=compact&theme=tokyonight)
 
 ---
 
