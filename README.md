@@ -1,108 +1,82 @@
 # Idrisse Moundhir
-🎓 Étudiant en informatique | Cadet – École 42 
-📊 Data • 🔐 Cybersécurité • 💻 Software & Systems
+
+🎓 **Cadet — 42 Network (Common Core)**
+💻 C Programming • ⚙️ Unix / Linux • 🧠 Algorithms
 
 ---
 
-## 👨‍💻 Profil
+## Profile
 
-Développeur en formation avec une forte culture **algorithmique, système et sécurité**, issu d’un parcours orienté **apprentissage par la pratique**.  
-J’ai **réussi la Piscine de l’École 42** et intégrerai officiellement le **cursus Cadet en janvier 2026**.
+Developer in training following the **42 peer-to-peer, project-based curriculum**, focused on **low-level programming and system fundamentals**.
 
-Je m’intéresse particulièrement à :
-- l’**analyse de données**
-- la **cybersécurité**
-- les **systèmes Linux**
-- la **programmation bas niveau (C)** et l’automatisation avec **Python**
+✔ **42 Piscine completed**
+📅 **Common Core started**
 
-Mon GitHub documente mon évolution technique à travers des projets **structurés, progressifs et orientés production**.
+This GitHub tracks my progression through **core C and Unix projects**, developed under **strict constraints** and evaluated following **42 standards**.
 
 ---
 
-## 🎯 Objectifs professionnels
+## Technical Focus
 
-- 📊 Développer une expertise en **Data Analysis & Data Engineering**
-- 🔐 Approfondir mes compétences en **Cybersécurité**
-- ⚙️ Maîtriser les **systèmes Linux**, le **C**, et les **algorithmes**
-- 🧠 Comprendre les enjeux réels de la sécurité des données
-- 💼 Évoluer vers un rôle de **Data Engineer / Security Engineer**
-
----
-
-## 🛠️ Compétences techniques
-
-### Langages
-- **C** (algorithmique, mémoire, projets École 42)
-- **Python** (data, scripts, automatisation)
-- **SQL**
-- **JavaScript**
-- **PHP**
-
-### Data & Cybersécurité
-- Analyse et traitement de données (Python)
-- Manipulation de fichiers et logs
-- Bases de la cryptographie
-- Authentification sécurisée (JWT, hashage)
-- Sensibilisation aux vulnérabilités (OWASP)
-
-### Systèmes & Outils
-- Linux (CLI, Bash)
-- Git & GitHub
-- Docker (bases)
-- PostgreSQL / MySQL
-- Environnements web & API REST
+* **C programming** (memory management, pointers, algorithms)
+* **Unix / Linux systems**
+* **Problem solving & algorithmic thinking**
+* **Clean, modular, norm-compliant code**
 
 ---
 
-## 📂 Projets en cours (orientés 42, Data & Cybersécurité)
+## Technical Skills
 
-🔹 **Mini Shell – C (42)**  
-> Implémentation d’un shell Unix simplifié  
-- Parsing de commandes  
-- Gestion des processus  
-- Redirections & pipes  
-- Programmation bas niveau (norme 42)
+### Languages
 
-🔹 **Analyse de logs système – Python (Data & Sécurité)**  
-- Extraction et nettoyage de logs  
-- Analyse statistique  
-- Détection de comportements suspects  
+* **C**
+* **Python** (basic scripting)
+* **Shell / Bash**
 
-🔹 **Outil de chiffrement & déchiffrement (C / Python)**  
-- Implémentation de chiffrements classiques  
-- Compréhension des principes de cryptographie  
-- Sécurisation des données
+### Tools & Concepts
 
-🔹 **Système d’authentification sécurisé (Web)**  
-- JWT  
-- Hashage des mots de passe  
-- Gestion des rôles utilisateurs  
-
-🔹 **Projet Data : Analyse de datasets réels**  
-- Nettoyage et transformation des données  
-- Requêtes SQL  
-- Analyse et interprétation des résultats  
+* Linux / Unix CLI
+* Memory management (`malloc`, `free`)
+* Processes, pipes, redirections (in progress)
+* Git & GitHub
 
 ---
 
-## 📘 Autres projets
+## Common Core Projects (in progress)
 
-- Plateforme web full-stack (Next.js, Node.js, PostgreSQL)
-- Projet de gestion hospitalière en Python (GUI + Web + PDF)
-- Sites web professionnels (portfolio, e-commerce)
-- Exercices avancés d’algorithmique et de logique (prépa 42)
+🔹 **libft — C**
+Reimplementation of standard C library functions
 
+* Memory handling
+* Code structure & robustness
+* 42 Norm compliance
+
+🔹 **ft_printf — C** *(upcoming)*
+
+* Variadic functions
+* Parsing and formatting
+
+🔹 **minishell — C** *(upcoming)*
+
+* Command parsing
+* Process management
+* Pipes & redirections
 
 ---
 
-## 📫 Contact
+## Working Method
 
-📍 Madagascar  
-📧 **moundhiridrisse@gmail.com**  
-🐙 GitHub : https://github.com/Mtruth14  
-
-💬 Ouvert aux opportunités, stages, projets techniques et collaborations en **Data & Cybersécurité**
+* Autonomous learning
+* Heavy use of documentation and man pages
+* Debug-driven development
+* Respect of constraints and specifications
 
 ---
 
-⭐ *Ce GitHub reflète mon engagement, ma progression continue et ma préparation aux défis techniques du monde professionnel.*
+## Contact
+
+📍 Madagascar
+📧 **[moundhiridrisse@gmail.com](mailto:moundhiridrisse@gmail.com)**
+🐙 GitHub: **[https://github.com/Mtruth14](https://github.com/Mtruth14)**
+
+
