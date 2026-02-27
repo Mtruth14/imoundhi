@@ -1,61 +1,85 @@
-👋 Hello, I'm Idrisse Moundhir
+👋 Hi, I'm Idrisse Moundhir
 
-🎓 Computer Science Student (L3)
-Institut Supérieur Polytechnique de Madagascar
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Data+%26+Cybersecurity+Enthusiast;Computer+Science+Student;Future+Cryptography+Specialist;Security-First+Software+Engineer" />
+</p>🎓 B.Sc. in Computer Science (L3) – Institut Supérieur Polytechnique de Madagascar
 🏫 Student at 42 Antananarivo
 
 
 ---
 
-🚀 About Me
+🚀 Professional Profile
 
-Passionate about software engineering, data systems, and cybersecurity, I focus on building reliable, secure, and well-structured applications.
+Analytical and detail-oriented Computer Science student with a strong foundation in algorithms, system programming, and database architecture.
 
-With a strong foundation in algorithms, system programming, and database design, I continuously improve my analytical thinking and problem-solving skills through academic projects and the peer-learning methodology at 42.
+Passionate about Data Engineering, Cryptography, and Cybersecurity, I aim to design secure, scalable, and high-performance systems aligned with modern security standards.
 
-
----
-
-💻 Technical Skills
-
-Programming Languages
-
-C • Java • Python • PHP • SQL • R
-
-Web Development
-
-HTML • CSS • JavaScript • WordPress
-
-Backend & Databases
-
-MySQL • PostgreSQL • REST APIs
-
-Core Computer Science
-
-Algorithms • Data Structures • Database Modeling • MERISE • Object-Oriented Programming
+I thrive in problem-solving environments and continuously strengthen my expertise through hands-on projects and peer-based learning.
 
 
 ---
 
-🔐 Areas of Interest
+🛠️ Technical Skills
 
-Data Engineering & Data Analysis
-
-Database Architecture & Optimization
-
-Cryptography (classical & modern concepts)
-
-Cybersecurity Fundamentals
-
-Secure Application Development
+💻 Programming
 
 
 
+
+
+
+
+
+🌐 Web & Backend
+
+
+
+
+
+
+
+
+---
+
+🔐 Core Interests
+
+Data Engineering & Data Systems
+
+Database Optimization & Modeling
+
+Cryptography (classical & modern foundations)
+
+Secure Software Architecture
+
+Cybersecurity Principles & Risk Analysis
+
+
+
+---
+
+📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="160"/>
+</p>
 ---
 
 🎯 Career Objective
 
-To specialize in Data and Cybersecurity, with a strong focus on cryptography and secure systems design, and contribute to building reliable, data-driven and security-first digital infrastructures.
+To build a career in Data & Cybersecurity, with a specialization in cryptography and secure systems engineering, contributing to resilient, high-integrity digital infrastructures at an international level.
+
+
+---
+
+🌍 Let's Connect
+
+
+
+
+
+---
+
 
 
 ---
