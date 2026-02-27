@@ -1,82 +1,61 @@
-# Idrisse Moundhir
+👋 Hello, I'm Idrisse Moundhir
 
-🎓 **Cadet — 42 Network (Common Core)**
-💻 C Programming • ⚙️ Unix / Linux • 🧠 Algorithms
+🎓 Computer Science Student (L3)
+Institut Supérieur Polytechnique de Madagascar
+🏫 Student at 42 Antananarivo
+
 
 ---
 
-## Profile
+🚀 About Me
 
-Developer in training following the **42 peer-to-peer, project-based curriculum**, focused on **low-level programming and system fundamentals**.
+Passionate about software engineering, data systems, and cybersecurity, I focus on building reliable, secure, and well-structured applications.
 
-✔ **42 Piscine completed**
-📅 **Common Core started**
+With a strong foundation in algorithms, system programming, and database design, I continuously improve my analytical thinking and problem-solving skills through academic projects and the peer-learning methodology at 42.
 
-This GitHub tracks my progression through **core C and Unix projects**, developed under **strict constraints** and evaluated following **42 standards**.
 
 ---
 
-## Technical Focus
+💻 Technical Skills
 
-* **C programming** (memory management, pointers, algorithms)
-* **Unix / Linux systems**
-* **Problem solving & algorithmic thinking**
-* **Clean, modular, norm-compliant code**
+Programming Languages
+
+C • Java • Python • PHP • SQL • R
+
+Web Development
+
+HTML • CSS • JavaScript • WordPress
+
+Backend & Databases
+
+MySQL • PostgreSQL • REST APIs
+
+Core Computer Science
+
+Algorithms • Data Structures • Database Modeling • MERISE • Object-Oriented Programming
+
 
 ---
 
-## Technical Skills
+🔐 Areas of Interest
 
-### Languages
+Data Engineering & Data Analysis
 
-* **C**
-* **Python** (basic scripting)
-* **Shell / Bash**
+Database Architecture & Optimization
 
-### Tools & Concepts
+Cryptography (classical & modern concepts)
 
-* Linux / Unix CLI
-* Memory management (`malloc`, `free`)
-* Processes, pipes, redirections (in progress)
-* Git & GitHub
+Cybersecurity Fundamentals
 
----
+Secure Application Development
 
-## Common Core Projects (in progress)
 
-🔹 **libft — C**
-Reimplementation of standard C library functions
-
-* Memory handling
-* Code structure & robustness
-* 42 Norm compliance
-
-🔹 **ft_printf — C** *(upcoming)*
-
-* Variadic functions
-* Parsing and formatting
-
-🔹 **minishell — C** *(upcoming)*
-
-* Command parsing
-* Process management
-* Pipes & redirections
 
 ---
 
-## Working Method
+🎯 Career Objective
 
-* Autonomous learning
-* Heavy use of documentation and man pages
-* Debug-driven development
-* Respect of constraints and specifications
+To specialize in Data and Cybersecurity, with a strong focus on cryptography and secure systems design, and contribute to building reliable, data-driven and security-first digital infrastructures.
+
 
 ---
-
-## Contact
-
-📍 Madagascar
-📧 **[moundhiridrisse@gmail.com](mailto:moundhiridrisse@gmail.com)**
-🐙 GitHub: **[https://github.com/Mtruth14](https://github.com/Mtruth14)**
-
-
