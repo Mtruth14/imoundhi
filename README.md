@@ -1,287 +1,149 @@
-# 👋 Hi, I'm Idrisse Moundhir
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=750&lines=Computer+Science+Student;Data+%26+AI+Enthusiast;Cybersecurity+Learner;42+Antananarivo+%7C+ISPM+ESIIA;Building+Secure+%26+Data-Driven+Systems" />
+# Idrisse MOUNDHIR
+
+### Étudiant en Électronique, Systèmes Informatiques & Intelligence Artificielle
+
+**Data Science · Machine Learning · IA générative · Développement logiciel**
+
+<p>
+  <a href="https://www.linkedin.com/in/idrisse-moundhir-b789b8333/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:moundhiridrisse@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/mtruth14">
+    <img src="https://img.shields.io/badge/GitHub-mtruth14-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Mtruth14">
-    <img src="https://img.shields.io/badge/GitHub-Mtruth14-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Idrisse%20Moundhir-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Mtruth14&style=for-the-badge&color=0A66C2"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+data-driven+solutions;Exploring+Machine+Learning+%26+Generative+AI;From+data+to+deployable+applications" alt="Animation de présentation">
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=mtruth14&style=flat-square&color=0e75b6&label=Profile+views" alt="Profile views">
 </p>
 
----
-
-## 👨‍💻 About Me
-
-🎓 **Computer Science Student — L3** at **Institut Supérieur Polytechnique de Madagascar (ISPM)**  
-💻 **Student at 42 Antananarivo**, developing strong foundations in programming, algorithms and systems  
-🤖 Interested in **Data, Artificial Intelligence and Cybersecurity**  
-🔐 Particularly interested in **Cryptography, Secure Systems and Security Engineering**  
-📊 Building practical projects around **Data Analysis, Machine Learning, Databases and intelligent systems**
-
-I enjoy understanding how systems work, solving technical problems and turning ideas into practical solutions.
-
-My goal is to combine **software engineering + data + security** to build reliable, scalable and secure digital systems.
+</div>
 
 ---
 
-# 🎓 Education
+## À propos
 
-### 🏫 Institut Supérieur Polytechnique de Madagascar — ISPM
+Étudiant à l'**Institut Supérieur Polytechnique de Madagascar (ISPM)**, en Électronique, Systèmes Informatiques et Intelligence Artificielle, et en **tronc commun à 42 Antananarivo**.
 
-**Licence — Électronique, Systèmes Informatiques et Intelligence Artificielle (ESIIA)**  
-📍 Madagascar  
-🎓 **3rd Year — L3**
+Je développe des projets qui relient **programmation, données et intelligence artificielle** : de l'analyse exploratoire à la conception de modèles, puis à leur intégration dans des applications.
 
-Main areas of interest:
+J'accorde une importance particulière à la qualité du code, aux tests, à la documentation et à la reproductibilité des projets.
 
-- 💻 Computer Science & Software Engineering
-- 🧠 Artificial Intelligence
-- 📊 Data & Machine Learning
-- 🗄️ Database Systems
-- ⚡ Electronics & Embedded Systems
-- 🌐 Web Development
-- 🔐 Cybersecurity foundations
+- **Domaines d'intérêt :** Data Science, Machine Learning, IA générative, RAG et développement backend.
+- **Approche :** apprendre par la pratique, expérimenter et construire des solutions concrètes.
+- **Localisation :** Antananarivo, Madagascar.
 
----
+## Formation
 
-### 🧑‍💻 42 Antananarivo
+| Période | Établissement | Parcours |
+|---|---|---|
+| Janvier 2026 – en cours | **42 Antananarivo** | Tronc commun : programmation en C et Python, algorithmique, systèmes et projets collaboratifs. |
+| Décembre 2023 – en cours | **Institut Supérieur Polytechnique de Madagascar** | Électronique, Systèmes Informatiques et Intelligence Artificielle. |
 
-**Piscine / Common Core**
+## Certifications
 
-42 provides a project-based and peer-to-peer learning environment focused on:
+- **Google Cybersecurity Professional Certificate**
+- **Google Data Analytics Professional Certificate**
+- **Google Project Management Professional Certificate**
 
-- 🧩 Algorithms & Problem Solving
-- 💻 C Programming
-- 🖥️ Unix / Linux
-- 🧠 Memory Management
-- 🔧 Software Engineering
-- 🤝 Peer-to-Peer Learning
-- 🚀 Independent Learning
+## Compétences techniques
 
-> **Learning by doing. Building by solving.**
-
----
-
-# 🏆 Certifications & Learning
-
-### 📜 Certifications
-
-| Certification | Organization |
+| Domaine | Technologies et outils |
 |---|---|
-| 🟢 **Google Project Management** | Google / Coursera |
-| 🤖 **Elements of AI** | University of Helsinki |
-| 📊 **Data Analysis / Data Skills** | Online Professional Training |
-
-### 📚 Continuous Learning
-
-Currently strengthening my knowledge in:
-
-`Data Analysis` · `Machine Learning` · `Cybersecurity` · `Cryptography` · `SQL` · `Python`
-
----
-
-# 🛠️ Technical Skills
-
-## 💻 Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,java,r,php,js,ts" />
-</p>
-
-**Python** · **C** · **Java** · **R** · **PHP** · **JavaScript** · **TypeScript**
+| **Programmation** | Python, C, JavaScript, TypeScript, PHP, Bash, SQL |
+| **Web & Backend** | HTML5, CSS3, React, Node.js, FastAPI, Streamlit, SQLAlchemy, WebSocket, REST API |
+| **Data Science & ML** | Pandas, NumPy, Scikit-learn, PyTorch, Matplotlib, Seaborn, Jupyter |
+| **IA générative & RAG** | LLM, Prompt Engineering, Pydantic, Embeddings, RAG, décodage contraint |
+| **DevOps & MLOps** | Docker, Docker Compose, GitHub Actions, monitoring, data drift |
+| **Python avancé** | POO, polymorphisme, design patterns, exceptions, décorateurs, programmation fonctionnelle, Poetry, venv |
+| **Systèmes & qualité** | Linux (Debian), administration système, SSH, UFW, AppArmor, pytest, flake8, mypy, norminette |
+| **Gestion de projet** | Scrum, backlog, WBS, KPIs |
 
 ---
 
-## 📊 Data & Artificial Intelligence
+## Challenges & compétitions
+### Challenges & compétitions
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql" />
-</p>
+| Projet | Présentation | Technologies | État |
+|---|---|---|---|
+| [GenSivana — Real or Fake](https://github.com/mtruth14/gensivana-real-or-fake) | Challenge Ingedata : détection d'images manipulées, classification en trois classes et localisation des zones altérées. | Python · PyTorch · EfficientNet-B0 · U-Net | ✅ Trois niveaux validés |
+---
 
-- 🐍 Python
-- 🐼 Pandas
-- 🔢 NumPy
-- 📈 Data Analysis
-- 🤖 Machine Learning
-- 🧠 Artificial Intelligence
-- 🗄️ SQL / Relational Databases
-- 📊 Data Visualization
-- 🔍 Data Exploration & Cleaning
+## École 42 — Core Curriculum
+
+### Milestone 0
+
+| Projet | Présentation | Technologies | État |
+|---|---|---|---|
+| [libft](https://github.com/mtruth14/libft) | Bibliothèque C personnelle : manipulation de chaînes, mémoire et listes chaînées. | C · Makefile · Pointeurs | ✅ Validé |
+
+### Milestone 1
+
+| Projet | Présentation | Technologies | État |
+|---|---|---|---|
+| [ft_printf](https://github.com/mtruth14/ft_printf) | Réimplémentation de `printf` : formats, largeurs, précisions et arguments variadiques. | C · Variadic functions | ✅ Validé |
+| [get_next_line](https://github.com/mtruth14/get_next_line) | Lecture d'un fichier ou de l'entrée standard ligne par ligne, avec gestion des buffers et des descripteurs. | C · File descriptors | ✅ Validé + bonus |
+| [push_swap](https://github.com/mtruth14/push_swap) | Tri d'une pile d'entiers avec un ensemble d'opérations limité et optimisation du nombre de coups. | C · Algorithmes de tri | ✅ Validé + bonus |
+
+### Milestone 2
+
+| Projet | Présentation | Technologies | État |
+|---|---|---|---|
+| [A-Maze-ing](https://github.com/mtruth14/A-Maze-ing) | Génération et résolution de labyrinthes (DFS), sortie hexadécimale, package installable et tests. | Python · pytest · flake8 · mypy | ✅ Validé + bonus |
+| [Born2beRoot](https://github.com/mtruth14/Born2beRoot) | Configuration d'une VM Debian sécurisée : LUKS, SSH, UFW, AppArmor, PAM, Fail2ban et monitoring. | Debian · Bash · LUKS | ✅ Validé |
+| [Python Module 00](https://github.com/mtruth14/python-module-00) | Bases de Python à travers des scénarios de jardin communautaire. | Python | ✅ Validé |
+| [Python Module 01](https://github.com/mtruth14/python-module-01) | Programmation orientée objet : classes et objets appliqués à un jardin virtuel. | Python · POO | ✅ Validé |
+| [Python Module 02](https://github.com/mtruth14/python-module-02) | Gestion des exceptions et traitement de données de capteurs. | Python · Exceptions | ✅ Validé |
+| [Python Module 03](https://github.com/mtruth14/python-module-03) | Structures de données Python appliquées au traitement de données de jeu. | Python · Structures de données | ✅ Validé |
+| [Python Module 04](https://github.com/mtruth14/python-module-04) | Manipulation de fichiers, flux de données et archivage. | Python · Fichiers · Flux | ✅ Validé |
+| [Python Module 05](https://github.com/mtruth14/python-module-05) | Classes abstraites, surcharge et polymorphisme de sous-types. | Python · ABC · Polymorphisme | ✅ Validé |
+| [Python Module 06](https://github.com/mtruth14/python-module-06) | Système d'importation, packages et gestion des dépendances. | Python · Packages · Imports | ✅ Validé |
+| [Python Module 07](https://github.com/mtruth14/python-module-07) | Design patterns, classes abstraites et interfaces. | Python · Design patterns · ABC | ✅ Validé |
+| [Python Module 08](https://github.com/mtruth14/python-module-08) | Environnements virtuels et gestion des dépendances avec pip et Poetry. | Python · venv · pip · Poetry | ✅ Validé |
+| [Python Module 09](https://github.com/mtruth14/python-module-09) | Validation de données avec Pydantic et modèles imbriqués. | Python · Pydantic | ✅ Validé |
+| [Python Module 10](https://github.com/mtruth14/python-module-10) | Programmation fonctionnelle, fonctions d'ordre supérieur, décorateurs et lambdas. | Python · Décorateurs · Lambda | ✅ Validé |
+
+### Milestone 3
+
+| Projet | Présentation | Technologies | État |
+|---|---|---|---|
+| [Call Me Maybe](https://github.com/mtruth14/call-me-maybe) | Appel de fonctions par LLM : génération de JSON conforme à un schéma via décodage contraint ; moteur de grammaire NFA et tokenizer développés de zéro. | Python · Pydantic · mypy --strict | ✅ Validé + bonus |
+| [Codexion](https://github.com/mtruth14/Codexion) | Simulation concurrente de codeurs avec ordonnancement EDF/FIFO, min-heap, threads et mutex. | C · Threads · Mutex | 🔄 En cours |
+| [Fly-in](https://github.com/mtruth14/fly-in) | Routage d'une flotte de drones dans un graphe 2D avec contraintes de capacité et gestion des conflits. | Python · Raylib · POO | 🔄 En cours |
+
+### Examens 42
+
+| Projet | Présentation | Technologies | État |
+|---|---|---|---|
+| [Exam Rank 02](https://github.com/mtruth14/exam-rank-02) | Préparation à l'évaluation pratique. | C | ✅ Terminé |
+| [Exam Rank 03](https://github.com/mtruth14/exam-rank-03) | Préparation à l'évaluation pratique en Python. | Python | ✅ Terminé |
 
 ---
 
-## 🌐 Web & Backend
+## Statistiques GitHub
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,react,nodejs" />
-</p>
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mtruth14&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Statistiques GitHub">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtruth14&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés">
+</div>
 
-- HTML5 / CSS3
-- JavaScript
-- TypeScript
-- PHP
-- React
-- Node.js
-- REST APIs
-- CRUD Applications
-- Authentication & Authorization
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mtruth14&theme=tokyonight&hide_border=true" alt="GitHub streak">
+</div>
 
 ---
 
-## 🗄️ Databases
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</p>
+### Construire, apprendre et améliorer — un projet à la fois.
 
-- MySQL
-- PostgreSQL
-- SQL
-- Database Design
-- Relational Modeling
-- Data Integrity
-- Query Optimization
-- Merise
+*Les dépôts publics contiennent leur documentation et leurs instructions d'utilisation. Pour les projets privés, un accès peut être étudié sur demande.*
 
----
-
-## 🔐 Cybersecurity & Systems
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github" />
-</p>
-
-- 🔒 Cybersecurity Fundamentals
-- 🛡️ Network Security Fundamentals
-- 🔍 Security & Risk Analysis
-- 🔑 Cryptography Foundations
-- 🐧 Linux / Unix
-- 💻 System Programming
-- 🔐 Secure Software Principles
-- 🧪 Penetration Testing Fundamentals
-- 📋 Security Frameworks & Best Practices
-
----
-
-# 🚀 Featured Projects
-
-## ❤️ Heart Disease Risk Prediction
-
-**Machine Learning & Data Analysis Project**
-
-A predictive system exploring health-related datasets and applying machine learning techniques to estimate cardiovascular risk.
-
-**Focus:**
-
-`Python` · `Machine Learning` · `Data Analysis` · `SQL`
-
----
-
-## 📄 Intelligent PDF Analytics Platform
-
-A document analysis platform designed to extract, process and analyze information from PDF documents.
-
-**Focus:**
-
-`Python` · `Data Processing` · `AI` · `Document Analysis` · `Web`
-
----
-
-## 🤖 Intelligent Storage Robot
-
-A web-based dashboard for managing and monitoring an intelligent storage system.
-
-**Technologies:**
-
-`React` · `TypeScript` · `Tailwind CSS` · `WebSockets` · `Three.js`
-
----
-
-## 🌦️ IoT Weather Station
-
-An embedded weather monitoring system using sensors and a web dashboard.
-
-**Technologies:**
-
-`Arduino` · `C/C++` · `BME280` · `IoT` · `Web Dashboard`
-
----
-
-# 🧠 Areas of Interest
-
-<p align="center">
-
-🔵 **Data Engineering**  
-🟣 **Artificial Intelligence**  
-🟢 **Cybersecurity**  
-🟠 **Cryptography**  
-🔴 **Secure Software Engineering**
-
-</p>
-
-My long-term goal is to work at the intersection of:
-
-**DATA → SOFTWARE → SECURITY**
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mtruth14&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mtruth14&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mtruth14&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🎯 Career Objective
-
-I am currently looking for opportunities where I can apply and strengthen my skills in:
-
-**📊 Data Analysis · 🤖 Data Science · 🧠 AI · 🔐 Cybersecurity**
-
-I am particularly interested in projects involving:
-
-- Data analysis and data-driven decision making
-- Machine learning
-- Data engineering
-- Secure software development
-- Cybersecurity
-- Cryptography
-- Database systems
-
-My objective is to progressively specialize in **Data & Cybersecurity**, with a long-term focus on **cryptography and secure systems engineering**.
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://github.com/Mtruth14">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://https://www.linkedin.com/in/idrisse-moundhir/?isSelfProfile=true/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
-<p align="center">
-  <b>💡 Learn → Build → Secure → Improve</b>
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
+</div>
