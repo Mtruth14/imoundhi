@@ -126,18 +126,25 @@ J'accorde une importance particulière à la qualité du code, aux tests, à la 
 | [Exam Rank 03](https://github.com/mtruth14/exam-rank-03) | Préparation à l'évaluation pratique en Python. | Python | ✅ Terminé |
 
 ---
+## 📊 Statistiques GitHub
 
-## Statistiques GitHub
+<p align="center">
+  <strong>Retrouve mon activité et mes contributions directement sur GitHub.</strong>
+</p>
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mtruth14&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Statistiques GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtruth14&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés">
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mtruth14&theme=tokyonight&hide_border=true" alt="GitHub streak">
-</div>
-
+<p align="center">
+  <a href="https://github.com/mtruth14?tab=repositories">
+    📁 Mes dépôts
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/mtruth14?tab=stars">
+    ⭐ Mes favoris
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/mtruth14">
+    📈 Mon profil et mes contributions
+  </a>
+</p>
 ---
 
 <div align="center">
